@@ -23,7 +23,7 @@
   height: 100px;
   z-index: 1;
   width: 100%;
-  max-width: 1300px;
+  max-width: 2200px;
   margin: 0 auto;
   padding: 0 50px;
 }
@@ -100,7 +100,7 @@
     height: 100px;
     z-index: 1;
     width: 100%;
-    max-width: 1300px;
+    max-width: 2200px;
     padding: 0;
   }
 
